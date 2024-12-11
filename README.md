@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm S K Sahil Mandal</h1>
+<h1 align="center">Hi 👋, I'm Sekh Sahil Mondal</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhsahil&label=Profile%20views&color=0e75b6&style=flat" alt="shekhsahil" /> </p>
